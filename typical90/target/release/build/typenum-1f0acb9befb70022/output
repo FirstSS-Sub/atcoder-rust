@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/ss/rust/atcoder-rust/typical90/target/release/build/typenum-1f0acb9befb70022/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/ss/rust/atcoder-rust/typical90/target/release/build/typenum-1f0acb9befb70022/out/op.rs

@@ -1,0 +1,1 @@
+{"rustc":10519243742258219140,"features":"","target":0,"profile":0,"path":0,"deps":[[5327506260988174342,"build_script_build",false,15948655758655456673]],"local":[{"RerunIfChanged":{"output":"debug/build/ndarray-742055a14ed39285/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

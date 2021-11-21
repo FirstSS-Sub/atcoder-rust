@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/s10974/rust/atcoder-rust/abc226/target/debug/build/typenum-dc228ee2490b4610/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/s10974/rust/atcoder-rust/abc226/target/debug/build/typenum-dc228ee2490b4610/out/op.rs
